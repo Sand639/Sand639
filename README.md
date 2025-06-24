@@ -1,22 +1,12 @@
-## Hi there 👋
-
-<!--
-**Sand639/Sand639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Programming Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Sand639&show_icons=true&locale=en&layout=compact)
 
-<img src="https://skillicons.dev/icons?i=html,c,c++,c#," /> <br /><br />
+## 🛠 Skills
+
+**Game Engines**  
+<img src="https://skillicons.dev/icons?i=unity,unreal" />
+
+**Languages & Tools**  
+<img src="https://skillicons.dev/icons?i=cpp,csharp,git,github,vscode" />
+
