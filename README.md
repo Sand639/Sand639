@@ -8,5 +8,5 @@
 <img src="https://skillicons.dev/icons?i=unity,unreal" />
 
 **Languages & Tools**  
-<img src="https://skillicons.dev/icons?i=cpp,csharp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,git,github,vscode" />
 
